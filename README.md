@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/pmta9pg00xamf9k2?svg=true)](https://ci.appveyor.com/project/agasferon/aqa-task-2-ci)
